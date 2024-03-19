@@ -45,4 +45,4 @@ npm run dev
 
 ## Créditos
 
-Este proyecto está basado en la clase impartida por [Midudev](https://midu.dev/) en su canal de YouTube.
+Este proyecto está basado en la clase impartida por [midu.dev](https://midu.dev/) en su canal de YouTube.
